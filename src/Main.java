@@ -23,5 +23,16 @@ public class Main {
         System.out.println(cat);
         paper-= 7639;
         System.out.println(paper);
+
+        System.out.println("Task 4");
+        var friend = 19;
+        System.out.println(friend);
+        friend+=2;
+        System.out.println(friend);
+        friend/=7;
+        System.out.println(friend);
+
+
+
     }
 }
