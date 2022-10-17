@@ -42,8 +42,12 @@ public class Main {
         frog+=4;
         System.out.println(frog);
 
-
-
+        System.out.println("Task 6");
+        var boxer1Weight = 78.2;
+        var boxer2Weight = 82.7;
+        var totalWeight = boxer1Weight + boxer2Weight;
+        System.out.println("Общий вес бойцов " + totalWeight);
+        System.out.println("Разница в весе " + (boxer2Weight-boxer1Weight));
 
 
     }
