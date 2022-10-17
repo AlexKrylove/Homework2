@@ -49,6 +49,9 @@ public class Main {
         System.out.println("Общий вес бойцов " + totalWeight);
         System.out.println("Разница в весе " + (boxer2Weight-boxer1Weight));
 
+        System.out.println("Task 7");
+        System.out.println("Разница в весе " + (boxer2Weight-boxer1Weight));
+        System.out.println("Разница в весе " + (boxer2Weight%boxer1Weight));
 
     }
 }
