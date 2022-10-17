@@ -53,5 +53,12 @@ public class Main {
         System.out.println("Разница в весе " + (boxer2Weight-boxer1Weight));
         System.out.println("Разница в весе " + (boxer2Weight%boxer1Weight));
 
+        System.out.println("Task 8");
+        var emploees = 640/8;
+        System.out.println("Всего работников в компании " + emploees);
+        var workHours = (8*(emploees+94));
+        var emploeesMore = 94 + emploees;
+        System.out.println("Если в компании работает " + emploeesMore + " человека,то всего " + workHours + " часов работы может быть поделено между сотрудниками.");
+
     }
 }
