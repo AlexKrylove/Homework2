@@ -17,7 +17,7 @@ public class Main {
         System.out.println(paper);
 
         System.out.println("Task 3");
-        dog = dog - 4;
+        dog = dog - 4; //d
         System.out.println(dog);
         cat = cat - 1.6;
         System.out.println(cat);
